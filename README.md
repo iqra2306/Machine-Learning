@@ -1,4 +1,4 @@
-- Hi, I’m @iqra2306
+- Hi, I’m @pragya_saini
 -  I’m interested in artificial intelligence and machine learning 
 -  I’m currently learning data structures and algorithms using java
 -  e-mail ID: ali.iqra2005@gmail.com
